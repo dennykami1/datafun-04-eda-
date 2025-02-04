@@ -9,17 +9,17 @@
 - code .
 
 **Created a .gitignore file, and pasted in contents from example**
-#Python virtual environment
-.venv/
+      #Python virtual environment
+      .venv/
 
-#Visual Studio Code settings and workspace
-.vscode/
+      #Visual Studio Code settings and workspace
+      .vscode/
 
-# Compiled Python files
-__pycache__/
+      # Compiled Python files
+      __pycache__/
 
-# macOS system files
-.DS_Store
+      # macOS system files
+      .DS_Store
 
 **Commited Changes to Github**
 - git add .
