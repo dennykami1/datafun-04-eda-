@@ -29,7 +29,7 @@ __pycache__/
 """**Created Virtual Environment and Activated**
 - Commited Changes to Github
 - py -m venv .venv
-- .venv\Scripts\activate
+- venv\Scripts\activate
 
 """**Upgrade pip & install requirements.txt**
 - py -m pip install --upgrade pip setuptools wheel
