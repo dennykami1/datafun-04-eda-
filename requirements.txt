@@ -91,6 +91,7 @@ pandas
 
 #create charts
 matplotlib
+seaborn
 
 # ======================================================
 # ESSENTIAL TOOLS
