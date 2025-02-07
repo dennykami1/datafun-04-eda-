@@ -1,6 +1,18 @@
 # datafun-04-eda-
-**Data Analytics Fundamentals Module 4 - How to Start Project**
+# Module 4 - Fundamentals of Data Analytics
 
+##**Summary:**
+This Jupyter notebook investigates the relationship between sepal size and petal size across three species of Iris: Setosa, Versicolor, and Virginica. The analysis focuses on how the sepal area, derived from sepal length and sepal width, impacts petal width, petal length, and petal area.
+
+##**Key Insights:**
+Setosa: Generally smaller has the largest sepal width of all the species. Increases in sepal area have minimal effect on petal length and width, and no effect on petal area.
+
+Versicolor and Virginica: Both species show a positive trend and noticeable correlation between larger sepal area and larger petal dimensions (width, length, and area).
+
+The exploratory data analysis (EDA) includes data cleaning, descriptive statistics, data visualization, analysis, and storytelling. The results support the hypothesis that larger sepal width is associated with larger petal area for Versicolor and Virginica.
+
+
+##**How to run the project yourself**
 
 **Cloned and Opened my Github project**
 - cd \Projects
